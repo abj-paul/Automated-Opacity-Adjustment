@@ -1,0 +1,3 @@
+CSS File: /static/bundle/linewebtoon-b4cebd2a069bd8977372.css
+Image URL: linear-gradient(0deg, #100, transparent), Opacity: 0.5
+
